@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "lm",
+    "type" : "ImplementationGuide",
+    "url" : "http://example.org/lm/ImplementationGuide/lm",
+    "version" : "0.1.0",
+    "name" : "LM"
+  },
+  {
+    "id" : "MyModel",
+    "type" : "StructureDefinition",
+    "url" : "http://example.org/lm/StructureDefinition/MyModel",
+    "version" : "0.1.0",
+    "name" : "MyModel"
+  }
+]
