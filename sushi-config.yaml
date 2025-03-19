@@ -16,3 +16,7 @@ publisher:
   name: me
   url: http://me
   # email: test@example.org
+
+menu:
+  Home: index.html
+  Artifacts: artifacts.html
